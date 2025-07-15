@@ -1,1 +1,1 @@
-# Titanic-Prediction-Kaggle-Competition-(w1)
+# Titanic-Prediction-Kaggle-Competition-
